@@ -1,0 +1,15 @@
+# BEGIN_KITTY_THEME
+# Catppuccin-Latte
+include current-theme.conf
+# END_KITTY_THEME
+
+
+# BEGIN_KITTY_FONTS
+font_size 12
+font_family      family="JetBrainsMono Nerd Font Mono"
+fallback_font_family FiraCode Nerd Font Mono
+fallback_font_family Font Awesome 5 Free
+bold_font        auto
+italic_font      auto
+bold_italic_font auto
+# END_KITTY_FONTS

@@ -1,0 +1,7 @@
+@import "catppuccin-macchiato"
+@theme "catppuccin-default"
+
+configuration {
+    font: "JetBrainsMono Nerd Font 12";
+}
+
